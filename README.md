@@ -1,2 +1,2 @@
-# ELP 2
-Sugestões de códigos para resolver os execícios propostos nas aulas de ELP 2
+# ELP 3
+Sugestões de códigos para resolver os execícios propostos nas aulas de ELP 3
