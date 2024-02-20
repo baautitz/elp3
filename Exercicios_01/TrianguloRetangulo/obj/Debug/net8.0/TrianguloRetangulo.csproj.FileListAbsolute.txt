@@ -1,0 +1,14 @@
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\bin\Debug\net8.0\TrianguloRetangulo.exe
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\bin\Debug\net8.0\TrianguloRetangulo.deps.json
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\bin\Debug\net8.0\TrianguloRetangulo.runtimeconfig.json
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\bin\Debug\net8.0\TrianguloRetangulo.dll
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\bin\Debug\net8.0\TrianguloRetangulo.pdb
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.AssemblyInfoInputs.cache
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.AssemblyInfo.cs
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.dll
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\refint\TrianguloRetangulo.dll
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.pdb
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\TrianguloRetangulo.genruntimeconfig.cache
+C:\Users\vinic\Faculdade\elp3\Exercicios_01\TrianguloRetangulo\obj\Debug\net8.0\ref\TrianguloRetangulo.dll
