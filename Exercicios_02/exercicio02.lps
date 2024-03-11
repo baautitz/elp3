@@ -8,9 +8,8 @@
       <Unit>
         <Filename Value="exercicio02.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="139" Y="12"/>
+        <CursorPos X="36" Y="12"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -18,6 +17,7 @@
         <Filename Value="uquadrado.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="UQuadrado"/>
+        <IsVisibleTab Value="True"/>
         <CursorPos X="15" Y="22"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -27,6 +27,8 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="UInterfaces"/>
         <EditorIndex Value="3"/>
+        <TopLine Value="3"/>
+        <CursorPos X="61" Y="30"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -35,6 +37,7 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="UAplicacao"/>
         <EditorIndex Value="2"/>
+        <TopLine Value="8"/>
         <CursorPos X="19" Y="5"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
