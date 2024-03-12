@@ -34,7 +34,7 @@ end;
 procedure Interfaces.mostreResultado(volume: real);
 begin
   WriteLn();
-  WriteLn('Volume calculado: ', volume);
+  WriteLn('Volume calculado: ', volume:8:2);
 end;
 
 constructor Interfaces.crieObj();

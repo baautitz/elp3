@@ -20,6 +20,7 @@ interface
       procedure setCirculo(poCirculo: Circulo);
       function getAltura(): real;
       function getVolume(): real;
+      function getCirculo(): Circulo;
 
       constructor crieObj();
       destructor destruaSe();
@@ -54,11 +55,16 @@ begin
    result := self.volume;
 end;
 
+function Cilindro.getCirculo(): Circulo;
+begin
+   result := self.oCirculo;
+end;
+
 constructor Cilindro.crieObj();
 begin
    self.volume := 0;
    self.altura := 0;
-   self.oCirculo := oCirculo.crieObj();
+   self.oCirculo := Circulo.crieObj();
 end;
 
 destructor Cilindro.destruaSe();

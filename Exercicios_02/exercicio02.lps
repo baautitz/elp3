@@ -17,7 +17,6 @@
         <Filename Value="uquadrado.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="UQuadrado"/>
-        <IsVisibleTab Value="True"/>
         <CursorPos X="15" Y="22"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -28,7 +27,7 @@
         <UnitName Value="UInterfaces"/>
         <EditorIndex Value="3"/>
         <TopLine Value="3"/>
-        <CursorPos X="61" Y="30"/>
+        <CursorPos X="23" Y="7"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -36,14 +35,15 @@
         <Filename Value="uaplicacao.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="UAplicacao"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
         <TopLine Value="8"/>
-        <CursorPos X="19" Y="5"/>
+        <CursorPos X="20" Y="29"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="1">
+    <JumpHistory HistoryIndex="2">
       <Position>
         <Filename Value="exercicio02.lpr"/>
         <Caret Column="20"/>
@@ -51,6 +51,10 @@
       <Position>
         <Filename Value="uaplicacao.pas"/>
         <Caret Line="5" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterfaces.pas"/>
+        <Caret Line="7" Column="23" TopLine="3"/>
       </Position>
     </JumpHistory>
     <RunParams>

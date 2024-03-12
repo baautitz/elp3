@@ -26,7 +26,7 @@ end;
 destructor Aplicacacao.destruaSe();
 begin
   oQuadrado.destruaSe();
-  aInterface.destraSe();
+  aInterface.destruaSe();
 end;
 
 procedure Aplicacacao.executeSe();

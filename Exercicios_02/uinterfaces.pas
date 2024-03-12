@@ -4,7 +4,7 @@ interface
  type Interfaces = class
    public
      constructor crieObj();
-     destructor destraSe();
+     destructor destruaSe();
 
      procedure pecaLado(var pLado : real);
      procedure mostreResultado(area, perimetro : real);
@@ -16,7 +16,7 @@ begin
 
 end;
 
-destructor Interfaces.destraSe();
+destructor Interfaces.destruaSe();
 begin
 
 end;

@@ -3,7 +3,7 @@ unit UAplicacao;
 interface
 
   uses
-    UInterfaces, UCirculo, UCilindro;
+    UInterfaces, UCilindro;
 
   type
 
@@ -12,7 +12,6 @@ interface
  Aplicacao = class
     private
       aInterface: Interfaces;
-      oCirculo: Circulo;
       oCilindro: Cilindro;
     public
       procedure executeSe();
@@ -32,9 +31,8 @@ begin
   aInterface.pecaRaio(raio);
   aInterface.pecaAltura(altura);
 
-  oCirculo.setRaio(raio);
+  oCilindro.getCirculo().setRaio(raio);
   oCilindro.setAltura(altura);
-  oCilindro.setCirculo(oCirculo);
 
   aInterface.mostreResultado(oCilindro.getVolume());
 end;
@@ -42,7 +40,6 @@ end;
 constructor Aplicacao.crieObj();
 begin
   aInterface := Interfaces.crieObj();
-  oCirculo := Circulo.crieObj();
   oCilindro := Cilindro.crieObj();
 end;
 
