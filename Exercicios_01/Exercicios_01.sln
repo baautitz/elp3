@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrado", "Quadrado\Quadrado.csproj", "{A49BDA8D-366D-4C21-A7EF-6E89DF84BB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassificacaoTriangulo", "Triangulo\ClassificacaoTriangulo.csproj", "{BE86A1D7-5BA3-4DF6-A530-597F15BFB5B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassificacaoTriangulo", "ClassificacaoTriangulo\ClassificacaoTriangulo.csproj", "{BE86A1D7-5BA3-4DF6-A530-597F15BFB5B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloRetangulo", "TrianguloRetangulo\TrianguloRetangulo.csproj", "{FA999DEC-634B-4677-AE4C-AF7792E4C67C}"
 EndProject
