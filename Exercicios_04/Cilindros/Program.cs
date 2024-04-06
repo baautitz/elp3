@@ -1,5 +1,5 @@
-﻿ class Cilindros {
-    static void Main() {
+﻿class Program {
+    public static void Main() {
         Programa app = new Programa();
         app.ExecuteSe();
     }
@@ -20,11 +20,11 @@ class Programa {
 
         oCilindro.Circulo.Raio = raio;
         oCilindro.Circulo.CalculaArea();
-        
+
         oCilindro.Altura = altura;
         oCilindro.CalculaVolume();
 
-        aInterface.MostreResultado(oCilindro.Volume);        
+        aInterface.MostreResultado(oCilindro.Volume);
     }
 }
 
