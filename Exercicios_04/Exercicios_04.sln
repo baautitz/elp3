@@ -1,25 +1,23 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34511.84
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindros", "Cilindros\Cilindros.csproj", "{75F453CE-E71F-4362-8FAC-3BE8F018B01B}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75F453CE-E71F-4362-8FAC-3BE8F018B01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75F453CE-E71F-4362-8FAC-3BE8F018B01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75F453CE-E71F-4362-8FAC-3BE8F018B01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75F453CE-E71F-4362-8FAC-3BE8F018B01B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D862754B-74AC-4532-BF1F-20C03EEEE6AD}
-	EndGlobalSection
-EndGlobal
+﻿O mercantilismo, a fisiocracia e o utilitarismo são escolas econômicas, cada qual com uma visão distinta da economia. Tomando essa informação como referência e a partir do material de estudos da disciplina, CORRELACIONE as colunas a seguir e ASSINALE a alternativa que contem a sequência correta:
+
+a. Mercantismo
+b. Fisiocracia
+c. Utiltaismo 
+
+
+( )Tem como objetivo o livre comércio.
+
+( ) A classe produtiva é a classe que faz
+renascer, pelo cultivo da terra, as riquezas anuais
+da nação.
+
+( ) Esteve sempre associado ao projeto de um
+Estado monárquico poderoso.
+
+( ) Uma grande parte da economia de
+beneficência é orientada por esta visão de
+prosperidade.
+
+( ) Defendia o fortalecimento do Estado por meio
+da posse de metais preciosos.
+
