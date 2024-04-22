@@ -1,17 +1,18 @@
-﻿using System.Transactions;
-
-namespace Heranca;
+﻿namespace Heranca;
 
 class Aluno : Pessoa {
     protected string ra;
     protected string curso;
+
+    public Aluno() {
+        ra = "";
+        curso = "";
+    }
     
     public Aluno(string ra, string curso) {
         this.ra = ra;
         this.curso = curso;
     }
-    
-    public Aluno() : this("", "") { }
 
     public string Ra {
         get => ra;
