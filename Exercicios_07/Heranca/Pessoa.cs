@@ -10,8 +10,12 @@ class Pessoa {
         this.nome = nome;
         this.sexo = sexo;
     }
-    
-    public Pessoa() : this(0, "", '\0') { }
+
+    public Pessoa() {
+        this.idade = 0;
+        this.nome = "";
+        this.sexo = ' ';
+    }
 
     public int Idade {
         get => idade;

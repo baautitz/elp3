@@ -8,11 +8,9 @@ static class Program {
 }
 
 class Aplicacao {
-    protected Aluno oAluno;
     protected Interfaces aInterface;
 
     public Aplicacao() {
-        oAluno = new Aluno();
         aInterface = new Interfaces();
     }
 
@@ -22,13 +20,8 @@ class Aplicacao {
         char sexo = '\0';
 
         aInterface.PecaAluno(ref idade, ref nome, ref sexo, ref ra, ref curso);
+        Aluno oAluno = new Aluno(idade, nome, sexo, ra, curso);
 
-        oAluno.Nome = nome;
-        oAluno.Idade = idade;
-        oAluno.Sexo = sexo;
-        oAluno.Curso = curso;
-        oAluno.Ra = ra;
-
-        aInterface.MostreAluno(ref oAluno);
+        aInterface.MostreAluno(oAluno);
     }
 }

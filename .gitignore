@@ -6,3 +6,4 @@ backup/
 lib/
 bin/
 obj/
+.idea/

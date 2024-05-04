@@ -18,7 +18,7 @@ class Interfaces {
         curso = Console.ReadLine() ?? "";
     }
 
-    public void MostreAluno(ref Aluno aluno) {
+    public void MostreAluno(Aluno aluno) {
         Console.WriteLine("---------------------------------------");
         Console.WriteLine("Nome: {0}", aluno.Nome);
         Console.WriteLine("Idade: {0}", aluno.Idade);
