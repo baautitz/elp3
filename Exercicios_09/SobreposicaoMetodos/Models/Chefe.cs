@@ -1,4 +1,4 @@
-﻿namespace SobreposicaoMetodos;
+﻿namespace SobreposicaoMetodos.Models;
 
 public class Chefe : Funcionario {
     protected double gratificacaoChefia;
@@ -14,5 +14,10 @@ public class Chefe : Funcionario {
 
     public override double FornecaSalarioBruto() {
         return salario + gratificacaoProdutividade + gratificacaoChefia;
+    }
+
+    public double GratificacaoChefia {
+        get => gratificacaoChefia;
+        set => gratificacaoChefia = value;
     }
 }

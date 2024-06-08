@@ -1,4 +1,4 @@
-﻿namespace SobreposicaoMetodos;
+﻿namespace SobreposicaoMetodos.Models;
 
 public class Pessoa {
     protected int idade;

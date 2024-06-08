@@ -1,8 +1,8 @@
-﻿namespace SobreposicaoMetodos;
+﻿namespace SobreposicaoMetodos.Models;
 
 public class Apoio : Funcionario {
-    public Apoio(int idade, string nome, char sexo, string matricula, double salario, double gratificacaoProdutividade, int dependentes) :
-        base(idade, nome, sexo, matricula, salario, gratificacaoProdutividade, dependentes) { }
+    public Apoio(int idade, string nome, char sexo, string matricula, double salario, double gratificacaoProdutividade, int dependentes) : base(idade, nome, sexo, matricula,
+        salario, gratificacaoProdutividade, dependentes) { }
 
     public Apoio() { }
 
