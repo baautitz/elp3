@@ -2,7 +2,7 @@
 
 namespace SobreposicaoMetodos;
 
-public static class Porgram {
+public static class Program {
     public static void Main(string[] args) {
         Aplicacao app = new Aplicacao();
         app.Executar();

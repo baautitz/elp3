@@ -6,7 +6,7 @@ public class Apoio : Funcionario {
 
     public Apoio() { }
 
-    private double FornecaAuxilioEducacao() {
+    public double FornecaAuxilioEducacao() {
         int maxDependentes = 5;
 
         if (dependentes <= maxDependentes) {

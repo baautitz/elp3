@@ -8,6 +8,7 @@ public class Empresa {
     public Empresa(string razaoSocial, int qtdeFuncionarios) {
         this.razaoSocial = razaoSocial;
         this.qtdeFuncionarios = qtdeFuncionarios;
+        totalSalarios = 0;
     }
 
     public void ProcessaFolha(Interfaces inter) {

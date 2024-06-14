@@ -51,7 +51,7 @@ public class Interfaces {
         Console.WriteLine("===========================================================================");
     }
 
-    public void MostreDadosEmpres(Empresa empresa) {
+    public void MostreDadosEmpresa(Empresa empresa) {
         Console.WriteLine("Empresa: {0}", empresa.RazaoSocial);
         Console.WriteLine("Funcionários: {0}", empresa.QtdeFuncionarios);
     }
